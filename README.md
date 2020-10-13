@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [thisurudeesan.tech](http://thisurudeesan.tech/)
 
+<br/>
+
+   ![Alt Text](https://github.com/Thisuru/My-Portfolio/blob/master/Website%20Scrolling%20new.gif)
+
+<br/>
+<br/>
+
 [![Twitter: Thisuru](https://img.shields.io/twitter/follow/ThisuruDeesan?style=social)](https://twitter.com/ThisuruDeesan)
 [![Linkedin: Thisuru](https://img.shields.io/badge/-Thisuru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/thisuru-deesan-069957153/)
 [![GitHub Thisuru](https://img.shields.io/github/followers/Thisuru?label=follow&style=social)](https://gitlab.com/Thisuru)
