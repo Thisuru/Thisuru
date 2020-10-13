@@ -27,9 +27,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m Thisuru Deesan 
-- 🔭  I’m an undergraduate student at University of Moratuwa Faculty of Informatinon Technology 
-- 🌱 I’m currently learning ... Flutter
+- 👦 I’m Thisuru Deesan 
+- 👨‍🎓 I’m an undergraduate student at University of Moratuwa Faculty of Informatinon Technology 
+- 📑 My favourit framework is **React**
+- 📗 I’m currently learning **Flutter**.
 - 👯 I’m looking to collaborate on ... Flutter/React.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
@@ -53,7 +54,22 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<br/>
+
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌍 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 <a href="https://github.com/Thisuru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisuru&theme=light&hide_langs_below=1" />
