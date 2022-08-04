@@ -28,7 +28,7 @@
 Here are some ideas to get you started:
 
 - 👦 I’m Thisuru Deesan 
-- 👨‍🎓 I’m an undergraduate student at University of Moratuwa Faculty of Informatinon Technology 
+- 👨‍🎓 Graduated from University of Moratuwa Faculty of Informatinon Technology 
 - 📑 My favourit framework is **React**
 - 📗 I’m currently learning **Flutter**.
 - 👯 I’m looking to collaborate on ... Flutter/React.js
