@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👦 I’m Thisuru Deesan 
 - 👨‍🎓 Graduated from University of Moratuwa Faculty of Informatinon Technology 
-- 📑 My favourit framework is **React**
+- 📑 My favourit framework is **MERN Stack**
 - 📗 I’m currently learning **Flutter**.
 - 👯 I’m looking to collaborate on ... Flutter/React.js
 - 🤔 I’m looking for help with ... AWS
